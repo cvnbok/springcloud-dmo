@@ -12,12 +12,6 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class SpringcloudRibbonApplication {
 
-	@Bean
-	@LoadBalanced
-	public RestTemplate rebbionRestTemplate(){
-		return new RestTemplate();
-	}
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringcloudRibbonApplication.class, args);
 	}
