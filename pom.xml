@@ -17,6 +17,7 @@
 	<modules>
 		<module>springcloud-eureka-service</module>
 		<module>springcloud-ribbon</module>
+		<module>springcloud-hystrix</module>
 		<module>springcloud-client01</module>
 		<module>springcloud-client02</module>
 	</modules>
