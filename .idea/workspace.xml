@@ -20,22 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bb40502-6776-4a80-a715-c8c45287b1ce" name="默认更改列表" comment="ti">
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/group/kve/SpringcloudHystrixApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/src/test/java/com/group/kve/SpringcloudHystrixApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/group/kve/controller/RequestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/group/kve/service/RequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_11.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-dmo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-dmo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-hystrix/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-hystrix/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/group/kve/SpringcloudHystrixApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/java/com/group/kve/SpringcloudHystrixApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-hystrix/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-hystrix/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-ribbon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-ribbon/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +61,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringcloudClient02Application">
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.group.kve.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringcloudHystrixApplication">
     <configuration name="SpringcloudClient01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springcloud-client01" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.SpringcloudClient01Application" />
@@ -105,6 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringcloudClient01Application" />
+      <item itemvalue="Spring Boot.SpringcloudClient02Application" />
+      <item itemvalue="Spring Boot.SpringcloudEurekaServiceApplication" />
+      <item itemvalue="Spring Boot.SpringcloudHystrixApplication" />
+      <item itemvalue="Spring Boot.SpringcloudRibbonApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -116,7 +135,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590715260067</updated>
-      <workItem from="1590715262845" duration="14336000" />
+      <workItem from="1590715262845" duration="15003000" />
+      <workItem from="1591059763652" duration="16347000" />
     </task>
     <task id="LOCAL-00001" summary="ti">
       <created>1590909686079</created>
@@ -125,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590909686079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ti">
+      <created>1590925620855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590925620855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +168,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -148,18 +176,74 @@
     <option name="LAST_COMMIT_MESSAGE" value="ti" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="605" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1590735266323">
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591083220843">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="605" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1590735266323" />
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1591083220843" />
+    <state x="605" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1591085241407">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1591085241407" />
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog" timestamp="1590757551882">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="92" y="92" width="1416" height="676" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1590757551882" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590909708077">
+    <state width="1556" height="500" key="GridCell.Tab.0.bottom" timestamp="1591088399061">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590909708077" />
+    <state width="1556" height="500" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1591088399061" />
+    <state width="1556" height="500" key="GridCell.Tab.0.center" timestamp="1591088399061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1591088399061" />
+    <state width="1556" height="500" key="GridCell.Tab.0.left" timestamp="1591088399061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1591088399061" />
+    <state width="1556" height="500" key="GridCell.Tab.0.right" timestamp="1591088399061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1591088399061" />
+    <state width="1556" height="500" key="GridCell.Tab.1.bottom" timestamp="1591088399062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1591088399062" />
+    <state width="1556" height="500" key="GridCell.Tab.1.center" timestamp="1591088399062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1591088399062" />
+    <state width="1556" height="500" key="GridCell.Tab.1.left" timestamp="1591088399061">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1591088399061" />
+    <state width="1556" height="500" key="GridCell.Tab.1.right" timestamp="1591088399062">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="500" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1591088399062" />
+    <state width="1556" height="260" key="GridCell.Tab.2.bottom" timestamp="1591085674312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="260" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1591085674312" />
+    <state width="1556" height="260" key="GridCell.Tab.2.center" timestamp="1591085674312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="260" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1591085674312" />
+    <state width="1556" height="260" key="GridCell.Tab.2.left" timestamp="1591085674312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="260" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1591085674312" />
+    <state width="1556" height="260" key="GridCell.Tab.2.right" timestamp="1591085674312">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="260" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1591085674312" />
+    <state x="303" y="61" key="SettingsEditor" timestamp="1591084081267">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1591084081267" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590925644735">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590925644735" />
     <state x="589" y="231" key="git4idea.merge.GitMergeDialog" timestamp="1590755806316">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -172,5 +256,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="267" y="140" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1590910374784" />
+    <state x="463" y="180" key="search.everywhere.popup" timestamp="1591077729991">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1591077729991" />
   </component>
 </project>
