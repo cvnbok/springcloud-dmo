@@ -20,6 +20,7 @@
 		<module>springcloud-hystrix</module>
 		<module>springcloud-client01</module>
 		<module>springcloud-client02</module>
+		<module>springcloud-feign</module>
 	</modules>
 
 	<properties>
