@@ -6,6 +6,9 @@
     <file url="file://$PROJECT_DIR$/springcloud-client01/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-client02" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-client02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-config-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-service/src/main/resources/application.yml" charset="GBK" />

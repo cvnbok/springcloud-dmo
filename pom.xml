@@ -22,6 +22,8 @@
 		<module>springcloud-client02</module>
 		<module>springcloud-feign</module>
 		<module>springcloud-zuul</module>
+		<module>springcloud-config-service</module>
+		<module>springcloud-config-client</module>
 	</modules>
 
 	<properties>
